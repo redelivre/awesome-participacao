@@ -4,7 +4,7 @@ Uma lista de ferramentas digitais para a participação social.
 
 # Como contribuir
 
-Para contribuir com essa lista edite o arquivo README.md deste repositório e crie um pull request com sua sugestão de alteração.
+Para contribuir com essa lista edite o arquivo README.md deste repositório e crie um pull request com sua sugestão de alteração. Para saber o que cabe nessa lista veja o arquivo [CONTRIBUTING](https://github.com/redelivre/awesome-participacao/blob/master/CONTRIBUTING.md).
 
 # Lista de ferramentas
 
